@@ -1,0 +1,43 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+__pycache__/
+
+# Environment variables
+.env
+*.env
+*myworld
+# Django specific
+db.sqlite3
+*.log
+
+# Media files
+/media/
+
+# Static files
+/staticfiles/
+/static/
+
+# IDEs and editors
+.idea/
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Virtual environment
+venv/
+env/
+
+# Coverage and testing
+.coverage
+*.cover
+.tox/
+nosetests.xml
+coverage.xml
+*.spec
+
+# Temporary files
+*.swp
+*.swo
