@@ -6,7 +6,7 @@ __pycache__/
 # Environment variables
 .env
 *.env
-*myworld
+myworld*
 # Django specific
 db.sqlite3
 *.log
